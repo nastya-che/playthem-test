@@ -1,0 +1,15 @@
+.card-block{
+  width: 250px;
+  height: 150px;
+  padding: 10px;
+  background: rgba(155,155,155,0.2);
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+}
+
+.avatar-area{
+  display: flex;
+  align-items: center;
+}

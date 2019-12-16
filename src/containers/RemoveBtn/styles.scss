@@ -1,0 +1,9 @@
+.remove-btn{
+  display: flex;
+  align-self: flex-end;
+  border: none;
+  background: transparent;
+  &:hover{
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,11 @@
+.change-avatar{
+  width: 120px;
+  margin-top: 10px;
+  display: flex;
+  font-size: 12px;
+  align-items: center;
+  justify-content: space-between;
+  &:hover{
+    cursor: pointer;
+  }
+}
